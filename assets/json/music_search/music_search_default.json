@@ -1,0 +1,14 @@
+{
+    "code": 200,
+    "message": null,
+    "data": {
+    "showKeyword": "小老虎",
+    "realkeyword": "小老虎",
+    "searchType": 1018,
+    "action": 0,
+    "alg": "alg_a2q_artist_v2",
+    "gap": 0,
+    "source": null,
+    "bizQueryInfo": "{\"showQuery\":\"小老虎\",\"source\":\"default_search\",\"bizIntentList\":[{\"searchQuery\":\"小老虎\",\"queryTemplateType\":\"UNKNOWN\",\"itemID\":\"187462\",\"itemType\":\"artist\",\"level\":1,\"bestMatch\":true}]}"
+    }
+    }

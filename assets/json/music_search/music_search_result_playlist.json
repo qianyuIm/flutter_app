@@ -1,0 +1,726 @@
+{
+    "result": {
+    "playlists": [
+    {
+    "id": 607775464,
+    "name": "赵照全集",
+    "coverImgUrl": "https://p1.music.126.net/QAjVi1ut_cDEyt7sMb-2Tg==/109951162863964611.jpg",
+    "creator": {
+    "nickname": "独立音乐iMusic小组",
+    "userId": 54460622,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 43,
+    "userId": 54460622,
+    "playCount": 81487,
+    "bookCount": 1451,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "赵照全集，网易云",
+    "highQuality": false
+    },
+    {
+    "id": 379895514,
+    "name": "「民谣」巷子深处的小酒馆",
+    "coverImgUrl": "https://p1.music.126.net/JDSn0rA0qmUAMMN_-BjfLA==/109951163606088665.jpg",
+    "creator": {
+    "nickname": "是岛歌呀",
+    "userId": 274928334,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 600,
+    "userId": 274928334,
+    "playCount": 200195,
+    "bookCount": 2249,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "就老去吧 孤独别醒来\n而热泪的崩坏",
+    "highQuality": false
+    },
+    {
+    "id": 6686195784,
+    "name": "民谣精选|从《走马》听起",
+    "coverImgUrl": "https://p1.music.126.net/cuXilGDnANZCUScghARiXA==/109951165496277273.jpg",
+    "creator": {
+    "nickname": "云音乐多多",
+    "userId": 309791722,
+    "userType": 10,
+    "avatarUrl": null,
+    "authStatus": 1,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 30,
+    "userId": 309791722,
+    "playCount": 3364722,
+    "bookCount": 24645,
+    "specialType": 100,
+    "officialTags": null,
+    "description": "民谣精选",
+    "highQuality": false
+    },
+    {
+    "id": 514947114,
+    "name": "华语民谣 I 孤独的心诠释诗意和远方",
+    "coverImgUrl": "https://p1.music.126.net/UDpjFEHmXInxGd_xMAI12w==/109951162811986419.jpg",
+    "creator": {
+    "nickname": "YouTube全球音乐",
+    "userId": 7394345,
+    "userType": 200,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": [
+    "华语",
+    "另类/独立",
+    "欧美"
+    ],
+    "experts": {
+    "1": "泛生活视频达人",
+    "2": "生活图文达人"
+    }
+    },
+    "subscribed": false,
+    "trackCount": 236,
+    "userId": 7394345,
+    "playCount": 18723160,
+    "bookCount": 214345,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "民谣 一听就是一个故事\n民谣 唱的人普通 听的人平凡\n民谣 喜欢那种感同身受 热爱那些温柔辞藻\n\n用歌曲说话\n用歌曲讲故事\n因为被赋予旋律\n所以才更容易打动人心\n简单的旋律和歌词\n也可以传达出最饱含诗意的深情\n\n有时候\n民谣像是唱着长达一生的曾经\n却又像只是讲了某天放学后\n暗恋少年阳光下灿烂的笑脸\n\n在民谣里 回忆过去\n怀念过去的故事\n想念那些无法再见的人\n在民谣里 憧憬未来\n坚信有一天终将会抵达的远方\n\n因为有记忆\n我们变得丰满\n因为有向往\n我们才会一往无前\n即使有一天\n我们白发苍苍\n回首一生\n有那么多丰富的回忆和故事\n此生足矣\n\n愿孤独的你\n有诗的态度\n也有当下的远方\n\n朩朩青尘\n2016.11.22",
+    "highQuality": true
+    },
+    {
+    "id": 579954860,
+    "name": "王师傅直播歌单",
+    "coverImgUrl": "https://p1.music.126.net/qrFKtixqC__btTZkmGz8CQ==/109951162848837630.jpg",
+    "creator": {
+    "nickname": "王师傅不鸽啦",
+    "userId": 56457679,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 1387,
+    "userId": 56457679,
+    "playCount": 401426,
+    "bookCount": 6880,
+    "specialType": 0,
+    "officialTags": null,
+    "description": null,
+    "highQuality": false
+    },
+    {
+    "id": 553129694,
+    "name": "【精选民谣】就老去吧，孤独别醒来",
+    "coverImgUrl": "https://p1.music.126.net/SObt5ETm6wZ9QrS5NcWhtg==/18591642116124133.jpg",
+    "creator": {
+    "nickname": "爱听音乐的猫大叔",
+    "userId": 371876620,
+    "userType": 200,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": [
+    "轻音乐",
+    "流行",
+    "欧美"
+    ],
+    "experts": {
+    "1": "泛生活视频达人"
+    }
+    },
+    "subscribed": false,
+    "trackCount": 144,
+    "userId": 371876620,
+    "playCount": 10582365,
+    "bookCount": 120632,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "愿漂泊的人有酒喝,孤独的人会唱歌.",
+    "highQuality": false
+    },
+    {
+    "id": 2191707025,
+    "name": "细数民谣歌词里痴与情",
+    "coverImgUrl": "https://p1.music.126.net/lcqC9VH3WnSI2Sa3aOXJmw==/109951163448880189.jpg",
+    "creator": {
+    "nickname": "薛定谔的缝纫机",
+    "userId": 68014748,
+    "userType": 200,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": [
+    "华语",
+    "电子",
+    "欧美"
+    ],
+    "experts": {
+    "1": "音乐视频达人",
+    "2": "欧美音乐资讯达人"
+    }
+    },
+    "subscribed": false,
+    "trackCount": 85,
+    "userId": 68014748,
+    "playCount": 305288,
+    "bookCount": 2189,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "有人说，民谣是歌，也有人说，民谣是故事，其实民谣更像是透露故事的歌。在民谣的世界里充满着太多的爱情故事，而民谣里歌唱的爱情，又总能令我们感慨，相似的经历或者相似的心境，相似的故事，总是令听歌的人听到自己内心深藏的那个不轻易示人的声音...\n\n今天我们就来盘点那些藏在民谣歌词里的痴情告白…\n\n薛定谔的缝纫机2018.08.27",
+    "highQuality": false
+    },
+    {
+    "id": 498708023,
+    "name": "民谣200首【精选】",
+    "coverImgUrl": "https://p1.music.126.net/MFpiR-S03RVac8RyAgf8Qw==/3253454911828684.jpg",
+    "creator": {
+    "nickname": "秋白DW",
+    "userId": 347494430,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 192,
+    "userId": 347494430,
+    "playCount": 90587584,
+    "bookCount": 1452929,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "我想和你虚度时光\n比如低头看鱼\n比如把茶杯留在桌子上离开\n浪费它们好看的阴影\n我还想连落日一起浪费\n比如散步\n一直消磨到星光满天\n我还要浪费风起的时候\n坐在走廊发呆\n直到你眼中的乌云\n全部被吹到窗外\n―《我想和你虚度时光》",
+    "highQuality": false
+    },
+    {
+    "id": 1996655686,
+    "name": "「民谣」漂泊的旅人，也想有个家。",
+    "coverImgUrl": "https://p1.music.126.net/6QATU8dXRf7Yz99dMIvikQ==/109951164407341375.jpg",
+    "creator": {
+    "nickname": "我是个好人希望我能幸福",
+    "userId": 44377713,
+    "userType": 200,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 180,
+    "userId": 44377713,
+    "playCount": 188992,
+    "bookCount": 2262,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "得不到的爱情\n回不去的故乡\n读不懂的诗歌\n到不了的远方\n留不住的青春\n实现不了的理想",
+    "highQuality": false
+    },
+    {
+    "id": 643554189,
+    "name": "爱上诗和远方的你 | 民谣歌单☀",
+    "coverImgUrl": "https://p1.music.126.net/PvFZ0IK8hazkQrgiSIPB_w==/109951164322777516.jpg",
+    "creator": {
+    "nickname": "Ruyao_",
+    "userId": 263463124,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 236,
+    "userId": 263463124,
+    "playCount": 719664,
+    "bookCount": 7425,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "民谣很穷，吉他很贵。 女孩很美，男孩不配。 民谣有三：爱情 理想 远方 听者有三：孤独 平庸 落魄 听后有三：费烟 费酒 费心",
+    "highQuality": false
+    },
+    {
+    "id": 765029093,
+    "name": "民谣在路上，这场名叫人生的旅途",
+    "coverImgUrl": "https://p1.music.126.net/pj-ZkS7tlax-0Zro-1X9Kg==/109951164010249842.jpg",
+    "creator": {
+    "nickname": "网抑晕音约丷",
+    "userId": 95943913,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 136,
+    "userId": 95943913,
+    "playCount": 3759862,
+    "bookCount": 27803,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "誓言已沾满了尘埃，\n前方有 谁等待，\n未来会怎样的安排，\n是晴朗 或阴霾，\n昨天 已被今天覆盖，\n不能 再重来。\n回忆是风送来的无奈，\n寂寞时 唯一的告白。\n时光交错 推着我向前，\n悲伤幸福 还会继续上演，\n游游荡荡 漂浮在醒醉之间，\n生命不过是一场体验。\n告别熟悉的地方 背上吉他，\n带着青涩的梦想 走向旅途，\n走进绚烂的霓虹 拨开云雾，\n寻找属于自己的 那片天空。",
+    "highQuality": false
+    },
+    {
+    "id": 416019543,
+    "name": "〖民谣〗你是我想抓住却不能拥抱的风",
+    "coverImgUrl": "https://p1.music.126.net/ob6PgfGizKT-CG_TkyUuqA==/109951164422853716.jpg",
+    "creator": {
+    "nickname": "愛意不死_",
+    "userId": 295535952,
+    "userType": 200,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": [
+    "华语"
+    ],
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 92,
+    "userId": 295535952,
+    "playCount": 1348331,
+    "bookCount": 9509,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "我知道，那些夏天就像你一样回不来\n我已不会再对谁满怀期待。\n我知道，这个世界每天都有太多遗憾，\n所以，你好，再见。\n————————————————————《安河桥》\n把我的时间交给你，\n让我来代替你去飞行，\n可悲的人有太多挂念，\n遗憾我不能与你同行。\n————————————————————《辞行》\n你是我三十九度的风，\n风一样的梦。\n————————————————————《种种》",
+    "highQuality": false
+    },
+    {
+    "id": 2565238682,
+    "name": "【民谣】你听的民谣里有多少故事",
+    "coverImgUrl": "https://p1.music.126.net/WasaP3tj8ye7DAES-opRfg==/109951165603789115.jpg",
+    "creator": {
+    "nickname": "我再也不谈恋爱啦7",
+    "userId": 506376091,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 315,
+    "userId": 506376091,
+    "playCount": 4138167,
+    "bookCount": 39648,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "活在民谣里的爱情好看的让人落泪\n可惜却给不了你天长地久里 一粥一茶\n民谣没有声色犬马\n没有灯红酒绿\n有的只是四海为家各安天下\n民谣不是首歌\n它存在的意义不是让你多喜欢它\n多感同身受\n而是教会你该如何过自己的生活\n民谣很穷\n一听就是一个故事\n",
+    "highQuality": false
+    },
+    {
+    "id": 2002904822,
+    "name": "疯狂却怕没了退路",
+    "coverImgUrl": "https://p1.music.126.net/DN9Ku_aXODI7RsLo0yAfUg==/109951164165208516.jpg",
+    "creator": {
+    "nickname": "疯狂却怕没了退路",
+    "userId": 591486232,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 2020,
+    "userId": 591486232,
+    "playCount": 83381,
+    "bookCount": 624,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "没有简介",
+    "highQuality": false
+    },
+    {
+    "id": 2387182880,
+    "name": "民谣像酒有故事的人不能听",
+    "coverImgUrl": "https://p1.music.126.net/Ay7YnefzpCr_MA3zGIZWDg==/109951163516087275.jpg",
+    "creator": {
+    "nickname": "苗苗啊啊啊啊",
+    "userId": 606659207,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 141,
+    "userId": 606659207,
+    "playCount": 4657496,
+    "bookCount": 46107,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "我知道，那些夏天就像你一样回不来，我已不会再对谁满怀期待，我知道，这个世界每天都有太多遗憾，所以，你好，再见。——宋冬野《安河桥》\n\n她只是一个平凡的姑娘却能让你彻底地悲伤——宋冬野《水果店的老板娘》\n\n“你是不是还要浪迹天涯”“我明天就娶你回家”——宋冬野《连衣裙》\n\n总有一天我会放弃天空步履蹒跚你在你的未来双鬓斑白\n.....未完待续.....\n\n――封面：微博-于故",
+    "highQuality": false
+    },
+    {
+    "id": 362391732,
+    "name": "吟游歌者，句句成诗",
+    "coverImgUrl": "https://p1.music.126.net/Ou7ZdMMM_KiClPPWFyZtPA==/3300733909607437.jpg",
+    "creator": {
+    "nickname": "雪落艽野",
+    "userId": 135745957,
+    "userType": 200,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 1297,
+    "userId": 135745957,
+    "playCount": 15868461,
+    "bookCount": 210758,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "每个人的人生中都有那么一座城市，那里总有那么一段无法忘记的记忆。你或许不愿意提起那段记忆，或许又因为一些小事而不断的想起。 　　 　　 你会记得那个姑娘喜欢的一切，记得你们发生的一些故事，记得阳光撒在她身上的样子，记得那些嬉笑怒骂。然后，慢慢的淡忘。那些所谓的记忆也随着你不断的美化它或者丑化它而变得丧失了原本的模样。 或许有一天，你完全的忘记了，只留下那座城市的名字。你很年轻，你疯狂的爱着，却不知道为什么，而直到今天，你还是不知道什么是爱情，却慢慢的了解什么是生活。时间改变了很多又什么都没有改变。 但是生活，还是要继续。",
+    "highQuality": false
+    },
+    {
+    "id": 6807708184,
+    "name": "耳机分你一半～",
+    "coverImgUrl": "https://p1.music.126.net/N0VTJS9ZKGHlzxMFo0l0bA==/109951166087290470.jpg",
+    "creator": {
+    "nickname": "再一站我就要下车了",
+    "userId": 5021488754,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 9857,
+    "userId": 5021488754,
+    "playCount": 473674,
+    "bookCount": 2517,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "呐，耳机分你一半～\n建议打开随机播放",
+    "highQuality": false
+    },
+    {
+    "id": 594013025,
+    "name": "坐在巷口听民谣",
+    "coverImgUrl": "https://p1.music.126.net/AzJQHscbJ9RpXyBx26Uafw==/109951165821331717.jpg",
+    "creator": {
+    "nickname": "Dear-ora",
+    "userId": 416515543,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 604,
+    "userId": 416515543,
+    "playCount": 376104,
+    "bookCount": 2828,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "我们不是孤独，我们只是格格不入。",
+    "highQuality": false
+    },
+    {
+    "id": 6807738452,
+    "name": "呐，耳机分你一半～",
+    "coverImgUrl": "https://p1.music.126.net/SEFaGcudQeOcF-YhTKXqYg==/109951166087301036.jpg",
+    "creator": {
+    "nickname": "再一站我就要下车了",
+    "userId": 5021488754,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 9860,
+    "userId": 5021488754,
+    "playCount": 1068526,
+    "bookCount": 5992,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "呐，耳机分你一半～\n建议打开随机播放",
+    "highQuality": false
+    },
+    {
+    "id": 48293441,
+    "name": "最美民谣三千首（2020更新）",
+    "coverImgUrl": "https://p1.music.126.net/3B3jq_Rrm99WRXcd6kb8NQ==/109951163965451802.jpg",
+    "creator": {
+    "nickname": "喜欢民谣的南子",
+    "userId": 1191606,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 3887,
+    "userId": 1191606,
+    "playCount": 589380,
+    "bookCount": 7983,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "汇合云音乐最火的100多个民谣歌单，最新流行民谣歌单集合，继续更新中...",
+    "highQuality": false
+    },
+    {
+    "id": 605994892,
+    "name": "民谣-【如果再也见不到你】",
+    "coverImgUrl": "https://p1.music.126.net/eUhzpUBypY6yIa4eueNdMA==/109951163867379947.jpg",
+    "creator": {
+    "nickname": "WANGZHIQIANG0211",
+    "userId": 371056,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 742,
+    "userId": 371056,
+    "playCount": 1361115,
+    "bookCount": 10680,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "请用此歌单内的歌名，编写一段话。\n如：“【妈妈】【听说】【你在陌生的城市等我】”",
+    "highQuality": false
+    },
+    {
+    "id": 2795942817,
+    "name": "犀安路（999号）",
+    "coverImgUrl": "https://p1.music.126.net/DF5PGMV3PMI_Z69qlXDMjA==/109951164412068132.jpg",
+    "creator": {
+    "nickname": "段程-",
+    "userId": 612840517,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 9,
+    "userId": 612840517,
+    "playCount": 17,
+    "bookCount": 0,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "简简单单的几句歌词，仿佛听见了最好的情话。",
+    "highQuality": false
+    },
+    {
+    "id": 2820897182,
+    "name": "我熬夜成瘾，却等不到你一句晚安",
+    "coverImgUrl": "https://p1.music.126.net/C6xqtAKwqnRqUL0mBBqa8g==/109951165854640369.jpg",
+    "creator": {
+    "nickname": "母汤先森",
+    "userId": 96245933,
+    "userType": 200,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": [
+    "流行"
+    ],
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 91,
+    "userId": 96245933,
+    "playCount": 677338,
+    "bookCount": 5692,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "你有没有在深夜里特别想念一个人？\n回忆席卷伤痛，直入心脏，\n万籁俱寂，眼泪融入深深夜色。\n拿起手机，翻遍所有跟他相关的消息，\n反反复复编辑又删除的微信，\n映着疲惫的眼，怎么也不敢发出去。\n想起他，就注定了辗转反侧，彻夜难眠。\n听着时光滴答滴答往前走，\n一寸一寸的煎熬。\n一个人面对着四壁空空，\n内心像破了一个大洞，\n冷风呼啸而过，凛冽的疼。\n回忆有多甜蜜美好，\n想念就有多撕裂磨人。\n夜深不可怕，想你才可怕，\n一个人不寂寞，想一个人才寂寞。",
+    "highQuality": false
+    },
+    {
+    "id": 2288000220,
+    "name": "经典民谣(中文)",
+    "coverImgUrl": "https://p1.music.126.net/2ZjQn_fx3b9e7QgcV9MRTw==/19040242858804674.jpg",
+    "creator": {
+    "nickname": "斗地主的斗",
+    "userId": 487128976,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 433,
+    "userId": 487128976,
+    "playCount": 327896,
+    "bookCount": 3043,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "唯有民谣，永留心间！",
+    "highQuality": false
+    },
+    {
+    "id": 689847342,
+    "name": "澄心净耳听",
+    "coverImgUrl": "https://p1.music.126.net/E-6rjWI1k43cBJPm_oTj3Q==/109951162897117598.jpg",
+    "creator": {
+    "nickname": "帐号已注销",
+    "userId": 262493336,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 113,
+    "userId": 262493336,
+    "playCount": 1404112,
+    "bookCount": 13696,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "凌晨三点 看海棠花未眠",
+    "highQuality": false
+    },
+    {
+    "id": 980804396,
+    "name": "［精选］【入睡民谣歌单】走心整理",
+    "coverImgUrl": "https://p1.music.126.net/Gh4qAvC5_qMHSky823SToA==/109951163452132816.jpg",
+    "creator": {
+    "nickname": "2劉貮2",
+    "userId": 247279502,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 176,
+    "userId": 247279502,
+    "playCount": 431867,
+    "bookCount": 5465,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "让这些走心的歌\n陪着你\n安然入睡",
+    "highQuality": false
+    },
+    {
+    "id": 114559085,
+    "name": "一把吉他，一首歌。",
+    "coverImgUrl": "https://p1.music.126.net/N43juMtJXKmoJrBaAm9tWA==/2946691173503176.jpg",
+    "creator": {
+    "nickname": "从此相逢是路人",
+    "userId": 96612859,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 612,
+    "userId": 96612859,
+    "playCount": 778451,
+    "bookCount": 6718,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "\n一包烟，三瓶酒。",
+    "highQuality": false
+    },
+    {
+    "id": 419023745,
+    "name": "「民谣」我来过你的城市，却忘记了你的名字",
+    "coverImgUrl": "https://p1.music.126.net/vO2qQ_CmtXd7vKGeAWa1Bw==/1368891990037458.jpg",
+    "creator": {
+    "nickname": "寺司_",
+    "userId": 113468546,
+    "userType": 200,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": [
+    "华语",
+    "流行",
+    "民谣"
+    ],
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 84,
+    "userId": 113468546,
+    "playCount": 8328440,
+    "bookCount": 124715,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "你讲迟来的候鸟 午后墙隅慵懒的猫 和跛脚乞丐身旁摇尾巴的狗 你讲新年夜晚绽放的烟火 沿海公路旁走时停的单车 和烟雨中的油纸伞 你讲梅雨季节的棕榈树 青苔上的寒露 和未曾见过的雪花 那一年在北方最冷的时候路过你的城市 带着逐渐微弱的朔风 荡起了一生涟漪 而后来呢 我又来过你的城市 却忘了你的名字\n\n从小就不会撒娇\n小时候想要什么东西就只会眼巴巴的看着\n得不到就只好算了\n长大之后 以为得不到是因为自己不够努力\n后来才发现 其实会撒娇比努力还管用\n有时候真羡慕那些甜甜的姑娘\n软软糯糯说句话笑一笑 人心都能融化\n我站在旁边被反衬得粗糙又坚硬\n仿佛瞬间长了满脸络腮胡子\n\n在嘈杂的人群中突然想到你 身边的一切都那么的荒芜 你说 到底是孤独缠绕着我 还是你就是我的孤独",
+    "highQuality": false
+    },
+    {
+    "id": 410501146,
+    "name": "一支民谣，一千个夜。",
+    "coverImgUrl": "https://p1.music.126.net/kTf14sTBWW9j9AKrchReow==/18809345418291383.jpg",
+    "creator": {
+    "nickname": "帐号已注销",
+    "userId": 90988182,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 525,
+    "userId": 90988182,
+    "playCount": 770677,
+    "bookCount": 6445,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "收集好听的冷门及少数小热门。",
+    "highQuality": false
+    },
+    {
+    "id": 395182876,
+    "name": "故事我有，我不喝酒",
+    "coverImgUrl": "https://p1.music.126.net/b7qBeKaTwJQXmhCaENRYMA==/18814842976746290.jpg",
+    "creator": {
+    "nickname": "莫名神经病",
+    "userId": 273809042,
+    "userType": 0,
+    "avatarUrl": null,
+    "authStatus": 0,
+    "expertTags": null,
+    "experts": null
+    },
+    "subscribed": false,
+    "trackCount": 217,
+    "userId": 273809042,
+    "playCount": 3528124,
+    "bookCount": 35656,
+    "specialType": 0,
+    "officialTags": null,
+    "description": "在合适的时间与空间和民谣相遇，引起共鸣的那一刻歌里的故事俨然变成了自己的故事，所以能听到歌里的嬉笑怒骂爱恨情愁不代表你的乐感有多好，只能说明你也是一个有故事的人。",
+    "highQuality": false
+    }
+    ],
+    "playlistCount": 76
+    },
+    "code": 200
+    }

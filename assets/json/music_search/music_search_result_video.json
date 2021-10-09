@@ -1,0 +1,98 @@
+{
+    "result": {
+    "videoCount": 5,
+    "videos": [
+    {
+    "coverUrl": "http://p2.music.126.net/n6QoJWWAB3YIXisNFbteOg==/109951164530395965.jpg",
+    "title": "赵照<犀安路999号>",
+    "durationms": 121551,
+    "playTime": 2679,
+    "type": 1,
+    "creator": [
+    {
+    "userId": 22674187,
+    "userName": "Vultramarine"
+    }
+    ],
+    "aliaName": null,
+    "transName": null,
+    "vid": "553C5B5728BC1497C0EE47739C156867",
+    "markTypes": [],
+    "alg": "alg_search_precision_video_tab_basic"
+    },
+    {
+    "coverUrl": "http://p2.music.126.net/Vqz-0LRIgCpitHnfMpVXIg==/109951164900301590.jpg",
+    "title": "犀安路999号(cover赵照)",
+    "durationms": 129984,
+    "playTime": 726,
+    "type": 1,
+    "creator": [
+    {
+    "userId": 1482144525,
+    "userName": "Masongong"
+    }
+    ],
+    "aliaName": null,
+    "transName": null,
+    "vid": "04192FEBE54F733C452626BCCF7A8905",
+    "markTypes": [],
+    "alg": "alg_search_precision_video_tab_basic"
+    },
+    {
+    "coverUrl": "http://p2.music.126.net/6gjNlXGOOgF8xOLLl6VFLw==/109951164019567984.jpg",
+    "title": "犀安路999号",
+    "durationms": 15162,
+    "playTime": 150,
+    "type": 1,
+    "creator": [
+    {
+    "userId": 33929078,
+    "userName": "重蹈覆覆辙"
+    }
+    ],
+    "aliaName": null,
+    "transName": null,
+    "vid": "4E30399F8CD40E1CFC8CCA0105E06B88",
+    "markTypes": [],
+    "alg": "alg_search_precision_video_tab_basic"
+    },
+    {
+    "coverUrl": "http://p2.music.126.net/5_2pJhwqpJV6FlRplDKXaw==/109951163667655355.jpg",
+    "title": "犀安路999号 赵照老师，很少唱的版本忘词微笑",
+    "durationms": 82000,
+    "playTime": 10689,
+    "type": 1,
+    "creator": [
+    {
+    "userId": 273494163,
+    "userName": "楠木的男孩前辈"
+    }
+    ],
+    "aliaName": null,
+    "transName": null,
+    "vid": "8AE8E64BE4DA9632ED2B815F698F300C",
+    "markTypes": [],
+    "alg": "alg_search_precision_video_tab_basic"
+    },
+    {
+    "coverUrl": "http://p2.music.126.net/ReVMLTP-OhqpW-CSkc4g9Q==/109951163573505124.jpg",
+    "title": "犀安路999号吉他弹唱",
+    "durationms": 171000,
+    "playTime": 6161,
+    "type": 1,
+    "creator": [
+    {
+    "userId": 623598391,
+    "userName": "肖申克66"
+    }
+    ],
+    "aliaName": null,
+    "transName": null,
+    "vid": "455F1868A832C339DA1B4DC1F1A683A1",
+    "markTypes": [],
+    "alg": "alg_search_precision_video_tab_basic"
+    }
+    ]
+    },
+    "code": 200
+    }

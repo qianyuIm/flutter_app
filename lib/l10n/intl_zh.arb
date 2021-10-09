@@ -1,0 +1,142 @@
+{
+    "appTitle": "flutter app",
+    "splashSkip": "跳过",
+
+    "tabHome": "首页",
+    "tabNovel": "小说",
+    "tabMusic": "音乐",
+    "tabVideo": "视频",
+    "tabUser": "我的",
+    
+    "viewStateButtonLogin": "登录",
+    "viewStateMessageUnAuth": "未登录",
+    "viewStateButtonRetry": "重试",
+    "viewStateMessageError": "加载失败",
+    "viewStateMessageNetworkError": "网络连接异常,请检查网络或稍后重试",
+    "viewStateButtonRefresh": "刷新一下",
+    "viewStateMessageEmpty": "空空如也",
+
+    "user_local_download": "本地/下载",
+    "user_cloud_music": "云盘",
+    "user_already_buy": "已购",
+    "user_recent_play": "最近播放",
+    "user_friends": "我的朋友",
+    "user_collection_like": "收藏和赞",
+    "user_my_blog": "我的博客",
+    "user_rock_zone": "摇滚专区",
+    "user_dj_zone": "DJ专区",
+    "user_rap_zone": "说唱专区",
+    "user_electronic_zone": "电音专区",
+    "user_sleeping_decompression": "助眠解压",
+    "user_chinese_features": "中国特色",
+    "user_radio": "广播电台",
+    "user_song_selection": "推歌精选",
+    "user_most_hi_electronic_music": "最嗨电音",
+    "user_classical_zone": "古典专区",
+    "user_acg_zone": "ACG专区",
+    "user_run_fm": "跑步FM",
+    "user_parent_child_channel": "亲子频道",
+    "user_jazz_radio": "爵士电台",
+    "user_hot_song": "热歌放映厅",
+    "user_dating": "因乐交友",
+    "user_little_ice_station": "小冰电台",
+    "user_song_hunter": "赏音猎人",
+    "user_my_live": "我的直播",
+    "user_fire": "火前留名",
+    "user_classic_zone": "经典专区",
+    "user_sound_source": "影视原音",
+    "user_music_application": "音乐应用",
+
+    "setting":"设置",
+    "setting_theme":"皮肤设置",
+    "setting_theme_mode":"模式选择",
+    "setting_theme_mode_auto":"跟随系统",
+    "setting_theme_mode_dark":"暗黑模式",
+    "setting_theme_mode_normal":"正常模式",
+    "setting_font":"字体设置",
+    "setting_language":"语言设置",
+    "setting_language_auto":"跟随系统",
+    "setting_language_zh":"中文",
+    "setting_language_en":"English",
+    "setting_song_quality":"音质选择",
+
+    "login":"登录",
+    "user_like_music":"我喜欢的音乐",
+    "user_heartbeat":"心动模式",
+    "user_tab_playlist_create":"创建歌单",
+    "user_tab_playlist_subscribe":"收藏歌单",
+    "user_tab_playlist_create_empty":"快去创建歌单吧",
+    "user_tab_playlist_subscribe_empty":"暂无收藏的歌单",
+
+    "user_create_playlist_cancel":"取消",
+    "user_create_playlist_complete":"完成",
+    "user_create_playlist_title":"音乐歌单",
+    "user_create_playlist_hint":"输入新建歌单标题",
+    "user_create_playlist_privacy":"设置为隐私歌单",
+    "user_playlist_manager":"管理歌单",
+
+    "video": "视频",
+    "more": "更多",
+    "recommended_dj": "推荐电台",
+    "recommended_mv": "推荐MV",
+    "recommended_new_song": "推荐新音乐",
+    "recommended_playlist": "推荐歌单",
+    "enter_private": "独家放送",
+    "play":"播放",
+
+    "top_new_album":"新碟",
+    "top_new_song":"新歌",
+    "recommend":"推荐",
+    "zh":"华语",
+    "ea":"欧美",
+    "kr":"韩国",
+    "jp":"日本",
+    "all":"全部",
+
+    "recommend_daily":"每日推荐",
+    "private_fm":"私人FM",
+    "play_list":"歌单",
+    "rank_list":"排行榜",
+
+    "cancel":"取消",
+    "expansion_more":"展开更多",
+    "playlist_square":"歌单广场",
+    "need_login_go":"前往登录页面",
+    "need_login_title":"前往登录页面", 
+
+    "region":"地区:", 
+    "type":"类型:",
+    "sort":"排序:",
+    "fastest_rising": "上升最快",
+    "hottest": "最热",
+    "latest": "最新",
+    "official": "官方版",
+    "native": "原生",
+    "live": "现场版",
+    "netease": "网易出品",
+    "mainland": "内地",
+    "ht": "港台",
+
+    "artist_home": "主页",
+    "artist_song":"歌曲",
+    "artist_album":"专辑",
+    "artist_event":"动态",
+    "artist_blog":"博客",
+    "artist_mv":"MV",
+
+    "artist_follow": "+ 关注",
+    "classification_management":"分类管理",
+    "editor":"编辑",
+    "done":"完成"
+
+
+    
+
+
+
+
+
+
+
+
+}

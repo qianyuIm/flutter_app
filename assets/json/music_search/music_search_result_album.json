@@ -1,0 +1,162 @@
+{
+    "result": {
+    "albums": [
+    {
+    "name": "犀安路999号的风",
+    "id": 71980231,
+    "type": "专辑",
+    "size": 2,
+    "picId": 109951164162366880,
+    "blurPicUrl": "https://p1.music.126.net/Qs3vc-vH6Q7i4yaYKM-vsQ==/109951164162366879.jpg",
+    "companyId": 0,
+    "pic": 109951164162366880,
+    "picUrl": "https://p1.music.126.net/Qs3vc-vH6Q7i4yaYKM-vsQ==/109951164162366879.jpg",
+    "publishTime": 1532476800000,
+    "description": "",
+    "tags": "",
+    "company": null,
+    "briefDesc": "",
+    "artist": {
+    "name": "珞寻",
+    "id": 27869609,
+    "picId": 109951163444106830,
+    "img1v1Id": 0,
+    "briefDesc": "",
+    "picUrl": "https://p1.music.126.net/SW_4199LtM4W9-mQ0iOMWA==/109951163444106830.jpg",
+    "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+    "albumSize": 7,
+    "alias": [],
+    "trans": "",
+    "musicSize": 10,
+    "picId_str": "109951163444106830"
+    },
+    "songs": [],
+    "alias": [],
+    "status": 0,
+    "copyrightId": 0,
+    "commentThreadId": "R_AL_3_71980231",
+    "artists": [
+    {
+    "name": "珞寻",
+    "id": 27869609,
+    "picId": 0,
+    "img1v1Id": 0,
+    "briefDesc": "",
+    "picUrl": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+    "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+    "albumSize": 0,
+    "alias": [],
+    "trans": "",
+    "musicSize": 0
+    }
+    ],
+    "picId_str": "109951164162366879",
+    "isSub": false
+    },
+    {
+    "name": "建行版《犀安路999号》",
+    "id": 39752425,
+    "type": "专辑",
+    "size": 3,
+    "picId": 109951163365900320,
+    "blurPicUrl": "https://p1.music.126.net/9K7pwnZ7rxJj0OqAw3m8bA==/109951163365900315.jpg",
+    "companyId": 0,
+    "pic": 109951163365900320,
+    "picUrl": "https://p1.music.126.net/9K7pwnZ7rxJj0OqAw3m8bA==/109951163365900315.jpg",
+    "publishTime": 1529415666322,
+    "description": "",
+    "tags": "",
+    "company": null,
+    "briefDesc": "",
+    "artist": {
+    "name": "李垒",
+    "id": 15194773,
+    "picId": 109951163365605340,
+    "img1v1Id": 0,
+    "briefDesc": "",
+    "picUrl": "https://p1.music.126.net/LGtSDCaDAK2JuQ2c7ERnFg==/109951163365605342.jpg",
+    "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+    "albumSize": 2,
+    "alias": [],
+    "trans": "",
+    "musicSize": 6,
+    "picId_str": "109951163365605342"
+    },
+    "songs": [],
+    "alias": [],
+    "status": 0,
+    "copyrightId": 0,
+    "commentThreadId": "R_AL_3_39752425",
+    "artists": [
+    {
+    "name": "李垒",
+    "id": 15194773,
+    "picId": 0,
+    "img1v1Id": 0,
+    "briefDesc": "",
+    "picUrl": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+    "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+    "albumSize": 0,
+    "alias": [],
+    "trans": "",
+    "musicSize": 0
+    }
+    ],
+    "picId_str": "109951163365900315",
+    "isSub": false
+    },
+    {
+    "name": "犀安路999号",
+    "id": 34686198,
+    "type": "Single",
+    "size": 1,
+    "picId": 1374389542728480,
+    "blurPicUrl": "https://p1.music.126.net/4tmwhy8Fq4RBBzsmDQHOqA==/1374389542728480.jpg",
+    "companyId": 0,
+    "pic": 1374389542728480,
+    "picUrl": "https://p1.music.126.net/4tmwhy8Fq4RBBzsmDQHOqA==/1374389542728480.jpg",
+    "publishTime": 1461859200007,
+    "description": "",
+    "tags": "",
+    "company": "华羽先生",
+    "briefDesc": "",
+    "artist": {
+    "name": "赵照",
+    "id": 6729,
+    "picId": 2900511674985812,
+    "img1v1Id": 0,
+    "briefDesc": "",
+    "picUrl": "https://p1.music.126.net/4b-PaDVeP2sa0lCGMCR4GA==/2900511674985812.jpg",
+    "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+    "albumSize": 37,
+    "alias": [],
+    "trans": "",
+    "musicSize": 158
+    },
+    "songs": [],
+    "alias": [],
+    "status": 0,
+    "copyrightId": 30031,
+    "commentThreadId": "R_AL_3_34686198",
+    "artists": [
+    {
+    "name": "赵照",
+    "id": 6729,
+    "picId": 0,
+    "img1v1Id": 0,
+    "briefDesc": "",
+    "picUrl": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+    "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+    "albumSize": 0,
+    "alias": [],
+    "trans": "",
+    "musicSize": 0
+    }
+    ],
+    "isSub": false
+    }
+    ],
+    "albumCount": 3
+    },
+    "code": 200
+    }

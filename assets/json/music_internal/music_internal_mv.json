@@ -1,0 +1,699 @@
+{
+    "count": 5000,
+    "hasMore": true,
+    "data": [
+        {
+            "id": 14310633,
+            "cover": "http://p1.music.126.net/ok6VJcBwkayLzUAnKsAvOw==/109951166310749449.jpg",
+            "name": "白日梦阳（日常版）",
+            "playCount": 475,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "林木田",
+            "artistId": 48134659,
+            "duration": 259000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 48134659,
+                    "name": "林木田",
+                    "alias": null,
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14311926,
+            "cover": "http://p1.music.126.net/Q9hvghNm9bxU1h8kr866Pw==/109951166330151511.jpg",
+            "name": "Amigos Simplemente (En Vivo)",
+            "playCount": 88,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Mon Laferte",
+            "artistId": 12031031,
+            "duration": 199000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 12031031,
+                    "name": "Mon Laferte",
+                    "alias": [],
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14311925,
+            "cover": "http://p1.music.126.net/ke7sWfHQ_AVHd7XJZntyag==/109951166330135457.jpg",
+            "name": "Se Me Va A Quemar El Corazón (En Vivo)",
+            "playCount": 32,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Mon Laferte",
+            "artistId": 12031031,
+            "duration": 269000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 12031031,
+                    "name": "Mon Laferte",
+                    "alias": [],
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14311786,
+            "cover": "http://p1.music.126.net/SCZV60pQjGQqGbCFJBveEQ==/109951166327313736.jpg",
+            "name": "那段往事 Ashu Chaghlar",
+            "playCount": 773,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Mirsali·Xavkat",
+            "artistId": 33574151,
+            "duration": 267000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 33574151,
+                    "name": "萨力 SALI",
+                    "alias": null,
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14312435,
+            "cover": "http://p1.music.126.net/62C_00sxwE5ke9tVy0U1Sg==/109951166325161516.jpg",
+            "name": "Lunod (feat. Zild and Juan Karlos) (Official Audio)",
+            "playCount": 12,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Ben&Ben",
+            "artistId": 12278602,
+            "duration": 177000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 12278602,
+                    "name": "Ben&Ben",
+                    "alias": [],
+                    "transNames": null
+                },
+                {
+                    "id": 35850726,
+                    "name": "zild",
+                    "alias": [],
+                    "transNames": null
+                },
+                {
+                    "id": 371882,
+                    "name": "Juan Karlos",
+                    "alias": [],
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14312471,
+            "cover": "http://p1.music.126.net/Fwc6TODfmeRRijy-Tn49fg==/109951166326684512.jpg",
+            "name": "2 Chains (Official Video)",
+            "playCount": 87,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Headie One",
+            "artistId": 13164114,
+            "duration": 190000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 13164114,
+                    "name": "Headie One",
+                    "alias": [],
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14310194,
+            "cover": "http://p1.music.126.net/DDU_ypIEBTQ7d0uchW277g==/109951166324255361.jpg",
+            "name": "The Ballad of Ira Hayes (Bear's Sonic Journals: At The Carousel Ballroom, April 24 1968)",
+            "playCount": 13,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Johnny Cash",
+            "artistId": 35347,
+            "duration": 174000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 35347,
+                    "name": "Johnny Cash",
+                    "alias": [],
+                    "transNames": [
+                        "强尼.卡什"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 14310140,
+            "cover": "http://p1.music.126.net/CyMBxd7_8U9gHFwnbWXzQg==/109951166324190938.jpg",
+            "name": "Still Is Still Moving To Me (Live From Austin City Limits, 2018)",
+            "playCount": 671,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Willie Nelson",
+            "artistId": 45846,
+            "duration": 193000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 45846,
+                    "name": "Willie Nelson",
+                    "alias": [
+                        "威利.纳尔逊"
+                    ],
+                    "transNames": [
+                        "威利.纳尔逊"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 14311246,
+            "cover": "http://p1.music.126.net/fIXbTbZxqKuGJbLCfFVbSQ==/109951166324274874.jpg",
+            "name": "Quedar Pa Joder (Remix [Audio])",
+            "playCount": 4,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Hens",
+            "artistId": 31846806,
+            "duration": 196000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 31846806,
+                    "name": "Hens",
+                    "alias": [],
+                    "transNames": null
+                },
+                {
+                    "id": 91078,
+                    "name": "DeSpistaos",
+                    "alias": [],
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14310218,
+            "cover": "http://p1.music.126.net/l9JXIubVrcgsNT5_937GbQ==/109951166324281532.jpg",
+            "name": "LOIR - Sakay (Official Lyric Video)",
+            "playCount": 2994,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Loir",
+            "artistId": 14838610,
+            "duration": 206000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 14838610,
+                    "name": "Loir",
+                    "alias": null,
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14311240,
+            "cover": "http://p1.music.126.net/o_GkU0zRU8pjC2q-m93QgQ==/109951166324267839.jpg",
+            "name": "Mentions (Official Audio)",
+            "playCount": 444,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Not3s",
+            "artistId": 12355643,
+            "duration": 168000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 12355643,
+                    "name": "Not3s",
+                    "alias": [],
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14311198,
+            "cover": "http://p1.music.126.net/OVXxPlONNe4JYiKF8iXurw==/109951166324244025.jpg",
+            "name": "Hush Little Baby (Official Lyric Video)",
+            "playCount": 0,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "The Rainbow Collections",
+            "artistId": 1053192,
+            "duration": 53000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 1053192,
+                    "name": "The Rainbow Collections",
+                    "alias": [],
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14311256,
+            "cover": "http://p1.music.126.net/8CZ_D7zoaj7keb1V518YCA==/109951166324295543.jpg",
+            "name": "La violenza della luce (Official Video)",
+            "playCount": 324,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Gianluca De Rubertis",
+            "artistId": 12744389,
+            "duration": 190000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 12744389,
+                    "name": "Gianluca De Rubertis",
+                    "alias": [],
+                    "transNames": null
+                },
+                {
+                    "id": 897067,
+                    "name": "Brunori Sas",
+                    "alias": [],
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14311507,
+            "cover": "http://p1.music.126.net/s6ZoNEtmZOkZmJcf-ggxrg==/109951166326686378.jpg",
+            "name": "good old days (Official Music Video)",
+            "playCount": 28,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Iggy",
+            "artistId": 49487759,
+            "duration": 155000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 49487759,
+                    "name": "Iggy",
+                    "alias": null,
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14312437,
+            "cover": "http://p1.music.126.net/_fZ95aDyXU8N_8stDbCcVQ==/109951166325166385.jpg",
+            "name": "Upuan (Official Audio)",
+            "playCount": 0,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Ben&Ben",
+            "artistId": 12278602,
+            "duration": 272000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 12278602,
+                    "name": "Ben&Ben",
+                    "alias": [],
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14311177,
+            "cover": "http://p1.music.126.net/aT5mcosABki5kL5iMaBoEw==/109951166324219563.jpg",
+            "name": "Shadows (Official Video)",
+            "playCount": 399,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Frank Walker",
+            "artistId": 12073886,
+            "duration": 188000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 12073886,
+                    "name": "Frank Walker",
+                    "alias": [],
+                    "transNames": null
+                },
+                {
+                    "id": 13226785,
+                    "name": "Sophie Simmons",
+                    "alias": [],
+                    "transNames": null
+                },
+                {
+                    "id": 504043,
+                    "name": "Nevada",
+                    "alias": [],
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14310192,
+            "cover": "http://p1.music.126.net/roC9-A1ECb7tC-rm7QtFyQ==/109951166324259545.jpg",
+            "name": "The Itchyworms - Eto Na (Ang Maliligayang Araw) | Official Lyric Video",
+            "playCount": 0,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "the itchyworms",
+            "artistId": 28311822,
+            "duration": 188000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 28311822,
+                    "name": "the itchyworms",
+                    "alias": null,
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14310219,
+            "cover": "http://p1.music.126.net/3RND3FTrBW9RgRymEkRPng==/109951166324281588.jpg",
+            "name": "Hide and Seek (Lyric Video)",
+            "playCount": 112,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Peder Elias",
+            "artistId": 13979517,
+            "duration": 190000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 13979517,
+                    "name": "Peder Elias",
+                    "alias": [],
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14312228,
+            "cover": "http://p1.music.126.net/OjYzaNfO04avw6nvNyqWng==/109951166324284716.jpg",
+            "name": "Ghostbusters II Opening Scene | Composer Commentary",
+            "playCount": 16,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Randy Edelman",
+            "artistId": 42300,
+            "duration": 152000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 42300,
+                    "name": "Randy Edelman",
+                    "alias": [
+                        "兰迪.艾德尔曼"
+                    ],
+                    "transNames": [
+                        "兰迪.艾德尔曼"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 14310217,
+            "cover": "http://p1.music.126.net/tHV_eE5vnB-fEsHLLPSY_g==/109951166324274814.jpg",
+            "name": "Sofrerei (Ao Vivo)",
+            "playCount": 16,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Diego & Victor Hugo",
+            "artistId": 12598910,
+            "duration": 182000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 12598910,
+                    "name": "Diego & Victor Hugo",
+                    "alias": [],
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14311202,
+            "cover": "http://p1.music.126.net/b0QKyZrMiqkT-PVba939PA==/109951166324236360.jpg",
+            "name": "Trip",
+            "playCount": 1479,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Yigit Kaya",
+            "artistId": 48419948,
+            "duration": 214000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 48419948,
+                    "name": "Yigit Kaya",
+                    "alias": null,
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14310198,
+            "cover": "http://p1.music.126.net/ynQr4cNlW1Z0B2CWfRwWVQ==/109951166324262670.jpg",
+            "name": "Amor de Primavera (Ao Vivo No Casa Filtr)",
+            "playCount": 12,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Diego & Victor Hugo",
+            "artistId": 12598910,
+            "duration": 216000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 12598910,
+                    "name": "Diego & Victor Hugo",
+                    "alias": [],
+                    "transNames": null
+                },
+                {
+                    "id": 31672841,
+                    "name": "Guilherme & Benuto",
+                    "alias": [],
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14312480,
+            "cover": "http://p1.music.126.net/RYSeJFYCAOg6gIg2dtTuvQ==/109951166326814978.jpg",
+            "name": "KEY0713 - Dream / 夢丨Official MV",
+            "playCount": 62,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "黑名單音樂 (Blacklist Music)",
+            "artistId": 12051032,
+            "duration": 207000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 12051032,
+                    "name": "黑名單音樂 (Blacklist Music)",
+                    "alias": null,
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14312845,
+            "cover": "http://p1.music.126.net/KfLjqe40-VvplFcrph3b9Q==/109951166329316586.jpg",
+            "name": "Can't Take My Eyes Off You (Lyric Video)",
+            "playCount": 174,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "DJ Ötzi",
+            "artistId": 185553,
+            "duration": 251000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 185553,
+                    "name": "DJ Ötzi",
+                    "alias": [
+                        "DJ Otzi"
+                    ],
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14311406,
+            "cover": "http://p1.music.126.net/wNvPbel7U7yZVYzJnZBIIA==/109951166324697997.jpg",
+            "name": "我是你的谁",
+            "playCount": 593,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "万芳",
+            "artistId": 9611,
+            "duration": 238000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 9611,
+                    "name": "万芳",
+                    "alias": [
+                        "林万芳"
+                    ],
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14311882,
+            "cover": "http://p1.music.126.net/i6gAN9CVO9iXFmR58-EZ-A==/109951166329114369.jpg",
+            "name": "End Of Summer",
+            "playCount": 68,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Nico Santos",
+            "artistId": 1058127,
+            "duration": 237000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 1058127,
+                    "name": "Nico Santos",
+                    "alias": [],
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14312836,
+            "cover": "http://p1.music.126.net/IuUUCHCRYXjmIHDp-qwKAQ==/109951166329091465.jpg",
+            "name": "Tito's Time (Lyric Video)",
+            "playCount": 28,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Coppini",
+            "artistId": 12882818,
+            "duration": 358000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 12882818,
+                    "name": "Coppini",
+                    "alias": null,
+                    "transNames": null
+                },
+                {
+                    "id": 33692678,
+                    "name": "Walter Mourão",
+                    "alias": null,
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14311881,
+            "cover": "http://p1.music.126.net/2qvlMdwAjTuLz6jiHFuPMA==/109951166329100210.jpg",
+            "name": "Attitude",
+            "playCount": 59,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Bruno Martini",
+            "artistId": 12355546,
+            "duration": 213000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 12355546,
+                    "name": "Bruno Martini",
+                    "alias": [],
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14311880,
+            "cover": "http://p1.music.126.net/zQydM7hXJlwHSqYoIN9g6w==/109951166329105509.jpg",
+            "name": "Thelma et Louise (Lyrics)",
+            "playCount": 29,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Poupie",
+            "artistId": 28168144,
+            "duration": 168000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 28168144,
+                    "name": "Poupie",
+                    "alias": [],
+                    "transNames": null
+                }
+            ]
+        },
+        {
+            "id": 14312837,
+            "cover": "http://p1.music.126.net/XQDpUuup2mZZsD68CfC4uA==/109951166329096890.jpg",
+            "name": "Ende der Einsamkeit",
+            "playCount": 19,
+            "briefDesc": null,
+            "desc": null,
+            "artistName": "Bosse",
+            "artistId": 29459,
+            "duration": 218000,
+            "mark": 0,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 29459,
+                    "name": "Bosse",
+                    "alias": [],
+                    "transNames": null
+                }
+            ]
+        }
+    ],
+    "code": 200
+}

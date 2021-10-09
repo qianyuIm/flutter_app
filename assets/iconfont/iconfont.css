@@ -1,0 +1,54 @@
+
+
+.icon_icon_radio:before {
+  content: "\e6de";
+}
+
+.icon_icon_ranking:before {
+  content: "\e670";
+}
+
+.icon_icon_praise:before {
+  content: "\e755";
+}
+
+.icon_icon_arrow_down:before {
+  content: "\e60e";
+}
+
+.icon_page_un_auth:before {
+  content: "\e7ac";
+}
+
+.icon_page_empty:before {
+  content: "\e639";
+}
+
+.icon_page_error:before {
+  content: "\e6b2";
+}
+
+.icon_page_network_error:before {
+  content: "\e6b3";
+}
+
+.icon_tab_bookshelf:before {
+  content: "\e608";
+}
+
+.icon_tab_home:before {
+  content: "\e628";
+}
+
+.icon_tab_music:before {
+  content: "\e7da";
+}
+
+.icon_tab_video:before {
+  content: "\e600";
+}
+
+.icon_tab_user:before {
+  content: "\e729";
+}
+

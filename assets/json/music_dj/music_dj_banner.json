@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "targetId": 0,
+            "targetType": 60004,
+            "pic": "http://p1.music.126.net/1Ojv_sjmdJCdmn5iPulBag==/109951166338959893.jpg",
+            "url": "https://music.163.com/m/at/6124e66d15f269b649201b9a",
+            "typeTitle": "活动",
+            "exclusive": false
+        },
+        {
+            "targetId": 963307048,
+            "targetType": 60000,
+            "pic": "http://p1.music.126.net/HfBjoTpgKegfd_fLsjXzUg==/109951166338976579.jpg",
+            "url": "orpheus://djradio/963307048",
+            "typeTitle": "新闻",
+            "exclusive": false
+        },
+        {
+            "targetId": 965359782,
+            "targetType": 60000,
+            "pic": "http://p1.music.126.net/Hp_33Td2PahrqFAoPtoCaQ==/109951166338983750.jpg",
+            "url": "orpheus://djradio/965359782",
+            "typeTitle": "声之剧场",
+            "exclusive": false
+        }
+    ],
+    "code": 200
+}

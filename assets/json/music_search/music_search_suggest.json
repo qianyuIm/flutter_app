@@ -1,0 +1,21 @@
+{
+    "result": {
+    "allMatch": [
+    {
+    "keyword": "今天开始我要自己上厕所",
+    "type": 1,
+    "alg": "alg_psug_new",
+    "lastKeyword": "",
+    "feature": "ODswLDAsMDthYWNiY2M2ZjYyMjJiYzliMmIzYmI1YWVlNzcyN2Y2Mg"
+    },
+    {
+    "keyword": "我会自己上厕所",
+    "type": 1,
+    "alg": "alg_psug_new",
+    "lastKeyword": "",
+    "feature": "MTQ7MCwwLDA7YWFjYmNjNmY2MjIyYmM5YjJiM2JiNWFlZTc3MjdmNjI"
+    }
+    ]
+    },
+    "code": 200
+    }

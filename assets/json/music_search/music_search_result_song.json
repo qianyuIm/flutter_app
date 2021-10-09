@@ -1,0 +1,729 @@
+{
+	"result": {
+		"songs": [{
+				"name": "犀安路999号的风",
+				"id": 1375795217,
+				"pst": 0,
+				"t": 0,
+				"ar": [{
+					"id": 28303805,
+					"name": "Zevin",
+					"tns": [],
+					"alias": []
+				}],
+				"alia": [],
+				"pop": 5,
+				"st": 0,
+				"rt": "",
+				"fee": 0,
+				"v": 2,
+				"crbt": null,
+				"cf": "",
+				"al": {
+					"id": 71980231,
+					"name": "犀安路999号的风",
+					"picUrl": "http://p3.music.126.net/Qs3vc-vH6Q7i4yaYKM-vsQ==/109951164162366879.jpg",
+					"tns": [],
+					"pic_str": "109951164162366879",
+					"pic": 109951164162366880
+				},
+				"dt": 222831,
+				"h": {
+					"br": 320000,
+					"fid": 0,
+					"size": 8916158,
+					"vd": -14612
+				},
+				"m": {
+					"br": 192000,
+					"fid": 0,
+					"size": 5349712,
+					"vd": -11981
+				},
+				"l": {
+					"br": 128000,
+					"fid": 0,
+					"size": 3566489,
+					"vd": -10234
+				},
+				"a": null,
+				"cd": "01",
+				"no": 1,
+				"rtUrl": null,
+				"ftype": 0,
+				"rtUrls": [],
+				"djId": 0,
+				"copyright": 0,
+				"s_id": 0,
+				"mark": 0,
+				"originCoverType": 0,
+				"originSongSimpleData": null,
+				"resourceState": true,
+				"version": 2,
+				"single": 0,
+				"noCopyrightRcmd": null,
+				"rtype": 0,
+				"rurl": null,
+				"mst": 9,
+				"cp": 0,
+				"mv": 0,
+				"publishTime": 0,
+				"privilege": {
+					"id": 1375795217,
+					"fee": 0,
+					"payed": 0,
+					"st": 0,
+					"pl": 320000,
+					"dl": 999000,
+					"sp": 7,
+					"cp": 1,
+					"subp": 1,
+					"cs": false,
+					"maxbr": 999000,
+					"fl": 320000,
+					"toast": false,
+					"flag": 0,
+					"preSell": false,
+					"playMaxbr": 999000,
+					"downloadMaxbr": 999000,
+					"rscl": null,
+					"freeTrialPrivilege": {
+						"resConsumable": false,
+						"userConsumable": false
+					},
+					"chargeInfoList": [{
+							"rate": 128000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 0
+						},
+						{
+							"rate": 192000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 0
+						},
+						{
+							"rate": 320000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 0
+						},
+						{
+							"rate": 999000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 1
+						}
+					]
+				}
+			},
+			{
+				"name": "犀安路999号的风 钢琴版",
+				"id": 1296429358,
+				"pst": 0,
+				"t": 0,
+				"ar": [{
+					"id": 27869609,
+					"name": "珞寻",
+					"tns": [],
+					"alias": []
+				}],
+				"alia": [],
+				"pop": 10,
+				"st": 0,
+				"rt": null,
+				"fee": 0,
+				"v": 19,
+				"crbt": null,
+				"cf": "",
+				"al": {
+					"id": 71980231,
+					"name": "犀安路999号的风",
+					"picUrl": "http://p4.music.126.net/Qs3vc-vH6Q7i4yaYKM-vsQ==/109951164162366879.jpg",
+					"tns": [],
+					"pic_str": "109951164162366879",
+					"pic": 109951164162366880
+				},
+				"dt": 180897,
+				"h": {
+					"br": 320000,
+					"fid": 0,
+					"size": 7238052,
+					"vd": 1510
+				},
+				"m": {
+					"br": 192000,
+					"fid": 0,
+					"size": 4342849,
+					"vd": 3992
+				},
+				"l": {
+					"br": 128000,
+					"fid": 0,
+					"size": 2895247,
+					"vd": 5540
+				},
+				"a": null,
+				"cd": "01",
+				"no": 1,
+				"rtUrl": null,
+				"ftype": 0,
+				"rtUrls": [],
+				"djId": 0,
+				"copyright": 2,
+				"s_id": 0,
+				"mark": 262144,
+				"originCoverType": 2,
+				"originSongSimpleData": null,
+				"resourceState": true,
+				"version": 19,
+				"single": 0,
+				"noCopyrightRcmd": null,
+				"rtype": 0,
+				"rurl": null,
+				"mst": 9,
+				"cp": 0,
+				"mv": 0,
+				"publishTime": 1532476800000,
+				"privilege": {
+					"id": 1296429358,
+					"fee": 0,
+					"payed": 0,
+					"st": 0,
+					"pl": 320000,
+					"dl": 320000,
+					"sp": 7,
+					"cp": 1,
+					"subp": 1,
+					"cs": false,
+					"maxbr": 320000,
+					"fl": 320000,
+					"toast": false,
+					"flag": 128,
+					"preSell": false,
+					"playMaxbr": 320000,
+					"downloadMaxbr": 320000,
+					"rscl": null,
+					"freeTrialPrivilege": {
+						"resConsumable": false,
+						"userConsumable": false
+					},
+					"chargeInfoList": [{
+							"rate": 128000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 0
+						},
+						{
+							"rate": 192000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 0
+						},
+						{
+							"rate": 320000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 0
+						},
+						{
+							"rate": 999000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 1
+						}
+					]
+				}
+			},
+			{
+				"name": "小桃红",
+				"id": 1306028028,
+				"pst": 0,
+				"t": 0,
+				"ar": [{
+					"id": 15194773,
+					"name": "李垒",
+					"tns": [],
+					"alias": []
+				}],
+				"alia": [],
+				"pop": 10,
+				"st": 0,
+				"rt": null,
+				"fee": 0,
+				"v": 7,
+				"crbt": null,
+				"cf": "",
+				"al": {
+					"id": 39752425,
+					"name": "建行版《犀安路999号》",
+					"picUrl": "http://p3.music.126.net/9K7pwnZ7rxJj0OqAw3m8bA==/109951163365900315.jpg",
+					"tns": [],
+					"pic_str": "109951163365900315",
+					"pic": 109951163365900320
+				},
+				"dt": 241033,
+				"h": {
+					"br": 320000,
+					"fid": 0,
+					"size": 9651766,
+					"vd": 25236
+				},
+				"m": {
+					"br": 192000,
+					"fid": 0,
+					"size": 5791077,
+					"vd": 25048
+				},
+				"l": {
+					"br": 128000,
+					"fid": 0,
+					"size": 3860733,
+					"vd": 22900
+				},
+				"a": null,
+				"cd": "01",
+				"no": 1,
+				"rtUrl": null,
+				"ftype": 0,
+				"rtUrls": [],
+				"djId": 0,
+				"copyright": 0,
+				"s_id": 0,
+				"mark": 0,
+				"originCoverType": 2,
+				"originSongSimpleData": null,
+				"resourceState": true,
+				"version": 7,
+				"single": 0,
+				"noCopyrightRcmd": null,
+				"rtype": 0,
+				"rurl": null,
+				"mst": 9,
+				"cp": 0,
+				"mv": 0,
+				"publishTime": 1529415666322,
+				"privilege": {
+					"id": 1306028028,
+					"fee": 0,
+					"payed": 0,
+					"st": 0,
+					"pl": 320000,
+					"dl": 320000,
+					"sp": 7,
+					"cp": 1,
+					"subp": 1,
+					"cs": false,
+					"maxbr": 320000,
+					"fl": 320000,
+					"toast": false,
+					"flag": 128,
+					"preSell": false,
+					"playMaxbr": 320000,
+					"downloadMaxbr": 320000,
+					"rscl": null,
+					"freeTrialPrivilege": {
+						"resConsumable": false,
+						"userConsumable": false
+					},
+					"chargeInfoList": [{
+							"rate": 128000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 0
+						},
+						{
+							"rate": 192000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 0
+						},
+						{
+							"rate": 320000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 0
+						},
+						{
+							"rate": 999000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 1
+						}
+					]
+				}
+			},
+			{
+				"name": "南广济街38号",
+				"id": 574546075,
+				"pst": 0,
+				"t": 0,
+				"ar": [{
+					"id": 15194773,
+					"name": "李垒",
+					"tns": [],
+					"alias": []
+				}],
+				"alia": [],
+				"pop": 10,
+				"st": 0,
+				"rt": null,
+				"fee": 0,
+				"v": 12,
+				"crbt": null,
+				"cf": "",
+				"al": {
+					"id": 39752425,
+					"name": "建行版《犀安路999号》",
+					"picUrl": "http://p3.music.126.net/9K7pwnZ7rxJj0OqAw3m8bA==/109951163365900315.jpg",
+					"tns": [],
+					"pic_str": "109951163365900315",
+					"pic": 109951163365900320
+				},
+				"dt": 233777,
+				"h": {
+					"br": 320000,
+					"fid": 0,
+					"size": 9361285,
+					"vd": 9346
+				},
+				"m": {
+					"br": 192000,
+					"fid": 0,
+					"size": 5616788,
+					"vd": 11659
+				},
+				"l": {
+					"br": 128000,
+					"fid": 0,
+					"size": 3744540,
+					"vd": 12714
+				},
+				"a": null,
+				"cd": "01",
+				"no": 1,
+				"rtUrl": null,
+				"ftype": 0,
+				"rtUrls": [],
+				"djId": 0,
+				"copyright": 2,
+				"s_id": 0,
+				"mark": 0,
+				"originCoverType": 2,
+				"originSongSimpleData": {
+					"songId": 411315552,
+					"name": "犀安路999号",
+					"artists": [{
+						"id": 6729,
+						"name": "赵照"
+					}],
+					"albumMeta": {
+						"id": 34686198,
+						"name": "犀安路999号"
+					}
+				},
+				"resourceState": true,
+				"version": 12,
+				"single": 0,
+				"noCopyrightRcmd": null,
+				"rtype": 0,
+				"rurl": null,
+				"mst": 9,
+				"cp": 0,
+				"mv": 0,
+				"publishTime": 1529415666322,
+				"privilege": {
+					"id": 574546075,
+					"fee": 0,
+					"payed": 0,
+					"st": 0,
+					"pl": 320000,
+					"dl": 320000,
+					"sp": 7,
+					"cp": 1,
+					"subp": 1,
+					"cs": false,
+					"maxbr": 320000,
+					"fl": 320000,
+					"toast": false,
+					"flag": 128,
+					"preSell": false,
+					"playMaxbr": 320000,
+					"downloadMaxbr": 320000,
+					"rscl": null,
+					"freeTrialPrivilege": {
+						"resConsumable": false,
+						"userConsumable": false
+					},
+					"chargeInfoList": [{
+							"rate": 128000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 0
+						},
+						{
+							"rate": 192000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 0
+						},
+						{
+							"rate": 320000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 0
+						},
+						{
+							"rate": 999000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 1
+						}
+					]
+				}
+			},
+			{
+				"name": "犀安路999号",
+				"id": 411315552,
+				"pst": 0,
+				"t": 0,
+				"ar": [{
+					"id": 6729,
+					"name": "赵照",
+					"tns": [],
+					"alias": []
+				}],
+				"alia": [],
+				"pop": 90,
+				"st": 0,
+				"rt": null,
+				"fee": 0,
+				"v": 8,
+				"crbt": null,
+				"cf": "",
+				"al": {
+					"id": 34686198,
+					"name": "犀安路999号",
+					"picUrl": "http://p3.music.126.net/4tmwhy8Fq4RBBzsmDQHOqA==/1374389542728480.jpg",
+					"tns": [],
+					"pic": 1374389542728480
+				},
+				"dt": 232585,
+				"h": {
+					"br": 320000,
+					"fid": 0,
+					"size": 9305904,
+					"vd": -4000
+				},
+				"m": {
+					"br": 192000,
+					"fid": 0,
+					"size": 5583559,
+					"vd": -1400
+				},
+				"l": {
+					"br": 128000,
+					"fid": 0,
+					"size": 3722387,
+					"vd": -2
+				},
+				"a": null,
+				"cd": "1",
+				"no": 1,
+				"rtUrl": null,
+				"ftype": 0,
+				"rtUrls": [],
+				"djId": 0,
+				"copyright": 0,
+				"s_id": 0,
+				"mark": 64,
+				"originCoverType": 0,
+				"originSongSimpleData": null,
+				"resourceState": true,
+				"version": 8,
+				"single": 0,
+				"noCopyrightRcmd": null,
+				"rtype": 0,
+				"rurl": null,
+				"mst": 9,
+				"cp": 30031,
+				"mv": 0,
+				"publishTime": 1461897011739,
+				"privilege": {
+					"id": 411315552,
+					"fee": 0,
+					"payed": 0,
+					"st": -200,
+					"pl": 0,
+					"dl": 0,
+					"sp": 0,
+					"cp": 0,
+					"subp": 0,
+					"cs": false,
+					"maxbr": 999000,
+					"fl": 0,
+					"toast": false,
+					"flag": 258,
+					"preSell": false,
+					"playMaxbr": 999000,
+					"downloadMaxbr": 999000,
+					"rscl": null,
+					"freeTrialPrivilege": {
+						"resConsumable": false,
+						"userConsumable": false
+					},
+					"chargeInfoList": [{
+							"rate": 128000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 0
+						},
+						{
+							"rate": 192000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 0
+						},
+						{
+							"rate": 320000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 0
+						},
+						{
+							"rate": 999000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 1
+						}
+					]
+				}
+			},
+			{
+				"name": "西安版成都",
+				"id": 863935620,
+				"pst": 0,
+				"t": 0,
+				"ar": [{
+					"id": 15194773,
+					"name": "李垒",
+					"tns": [],
+					"alias": []
+				}],
+				"alia": [],
+				"pop": 10,
+				"st": 0,
+				"rt": null,
+				"fee": 0,
+				"v": 11,
+				"crbt": null,
+				"cf": "",
+				"al": {
+					"id": 39752425,
+					"name": "建行版《犀安路999号》",
+					"picUrl": "http://p3.music.126.net/9K7pwnZ7rxJj0OqAw3m8bA==/109951163365900315.jpg",
+					"tns": [],
+					"pic_str": "109951163365900315",
+					"pic": 109951163365900320
+				},
+				"dt": 289214,
+				"h": {
+					"br": 320000,
+					"fid": 0,
+					"size": 11580648,
+					"vd": -2
+				},
+				"m": {
+					"br": 192000,
+					"fid": 0,
+					"size": 6948406,
+					"vd": -2
+				},
+				"l": {
+					"br": 128000,
+					"fid": 0,
+					"size": 4632285,
+					"vd": -2
+				},
+				"a": null,
+				"cd": "01",
+				"no": 2,
+				"rtUrl": null,
+				"ftype": 0,
+				"rtUrls": [],
+				"djId": 0,
+				"copyright": 2,
+				"s_id": 0,
+				"mark": 0,
+				"originCoverType": 2,
+				"originSongSimpleData": null,
+				"resourceState": true,
+				"version": 11,
+				"single": 0,
+				"noCopyrightRcmd": {
+					"type": 2,
+					"typeDesc": "其它版本可播",
+					"songId": null
+				},
+				"rtype": 0,
+				"rurl": null,
+				"mst": 9,
+				"cp": 0,
+				"mv": 0,
+				"publishTime": 1529415666322,
+				"privilege": {
+					"id": 863935620,
+					"fee": 0,
+					"payed": 0,
+					"st": -200,
+					"pl": 0,
+					"dl": 0,
+					"sp": 0,
+					"cp": 0,
+					"subp": 0,
+					"cs": false,
+					"maxbr": 320000,
+					"fl": 0,
+					"toast": false,
+					"flag": 128,
+					"preSell": false,
+					"playMaxbr": 320000,
+					"downloadMaxbr": 320000,
+					"rscl": null,
+					"freeTrialPrivilege": {
+						"resConsumable": false,
+						"userConsumable": false
+					},
+					"chargeInfoList": [{
+							"rate": 128000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 0
+						},
+						{
+							"rate": 192000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 0
+						},
+						{
+							"rate": 320000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 0
+						},
+						{
+							"rate": 999000,
+							"chargeUrl": null,
+							"chargeMessage": null,
+							"chargeType": 1
+						}
+					]
+				}
+			}
+		],
+		"songCount": 6
+	},
+	"code": 200
+}

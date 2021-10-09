@@ -1,0 +1,64 @@
+{
+    "result": {
+    "artistCount": 4,
+    "artists": [
+    {
+    "id": 6729,
+    "name": "赵照",
+    "picUrl": "https://p2.music.126.net/4b-PaDVeP2sa0lCGMCR4GA==/2900511674985812.jpg",
+    "alias": [],
+    "albumSize": 37,
+    "picId": 2900511674985812,
+    "img1v1Url": "https://p2.music.126.net/fGm94MXB4PNLocsfHZOreQ==/109951166118501023.jpg",
+    "accountId": 126398,
+    "img1v1": 109951166118501020,
+    "mvSize": 7,
+    "followed": false,
+    "trans": null
+    },
+    {
+    "id": 15194773,
+    "name": "李垒",
+    "picUrl": "https://p2.music.126.net/LGtSDCaDAK2JuQ2c7ERnFg==/109951163365605342.jpg",
+    "alias": [],
+    "albumSize": 2,
+    "picId": 109951163365605340,
+    "img1v1Url": "https://p2.music.126.net/N2XIjZIWDYoBtyeIzTd19w==/109951166097082671.jpg",
+    "accountId": 356753426,
+    "img1v1": 109951166097082670,
+    "mvSize": 0,
+    "followed": false,
+    "trans": null
+    },
+    {
+    "id": 28303805,
+    "name": "Zevin",
+    "picUrl": "https://p2.music.126.net/gRsap1IRknOYfaFcOl3hFg==/109951163433995502.jpg",
+    "alias": [],
+    "albumSize": 17,
+    "picId": 109951163433995500,
+    "img1v1Url": "https://p2.music.126.net/nV6Mb3pt93f8qSL59-xC7Q==/109951163433994571.jpg",
+    "accountId": 506017538,
+    "img1v1": 109951163433994580,
+    "mvSize": 0,
+    "followed": false,
+    "trans": null
+    },
+    {
+    "id": 27869609,
+    "name": "珞寻",
+    "picUrl": "https://p2.music.126.net/SW_4199LtM4W9-mQ0iOMWA==/109951163444106830.jpg",
+    "alias": [],
+    "albumSize": 7,
+    "picId": 109951163444106830,
+    "img1v1Url": "https://p2.music.126.net/hmfJqQqr2jraHBemc8xbiQ==/109951163444108190.jpg",
+    "accountId": 1509076175,
+    "img1v1": 109951163444108200,
+    "mvSize": 0,
+    "followed": false,
+    "trans": null
+    }
+    ]
+    },
+    "code": 200
+    }

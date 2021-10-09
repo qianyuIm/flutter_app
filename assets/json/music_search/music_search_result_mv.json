@@ -1,0 +1,30 @@
+{
+    "result": {
+    "mvCount": 1,
+    "mvs": [
+    {
+    "id": 14290821,
+    "cover": "http://p1.music.126.net/q_4JK-ARpkq9WDJ_l6oEXA==/109951166048310713.jpg",
+    "name": "就让我在春风沉醉的夜晚老去（翻自 野夫子）",
+    "playCount": 104,
+    "briefDesc": null,
+    "desc": null,
+    "artistName": "静安路5号",
+    "artistId": 48196149,
+    "duration": 32000,
+    "mark": 0,
+    "artists": [
+    {
+    "id": 48196149,
+    "name": "静安路5号",
+    "alias": null,
+    "transNames": null
+    }
+    ],
+    "transNames": null,
+    "alias": null
+    }
+    ]
+    },
+    "code": 200
+    }

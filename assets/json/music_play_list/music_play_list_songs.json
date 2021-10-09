@@ -1,0 +1,253 @@
+{
+    "songs": [
+    {
+    "name": "星辰大海",
+    "id": 1811921555,
+    "pst": 0,
+    "t": 0,
+    "ar": [
+    {
+    "id": 14077324,
+    "name": "黄霄雲",
+    "tns": [],
+    "alias": []
+    }
+    ],
+    "alia": [],
+    "pop": 100,
+    "st": 0,
+    "rt": "",
+    "fee": 1,
+    "v": 7,
+    "crbt": null,
+    "cf": "",
+    "al": {
+    "id": 121630728,
+    "name": "星辰大海",
+    "picUrl": "https://p1.music.126.net/eRSdB2vIoBHJV7-0Ga3i6g==/109951165641911293.jpg",
+    "tns": [],
+    "pic_str": "109951165641911293",
+    "pic": 109951165641911300
+    },
+    "dt": 207857,
+    "h": {
+    "br": 320000,
+    "fid": 0,
+    "size": 8316525,
+    "vd": -55645
+    },
+    "m": {
+    "br": 192000,
+    "fid": 0,
+    "size": 4989933,
+    "vd": -53089
+    },
+    "l": {
+    "br": 128000,
+    "fid": 0,
+    "size": 3326637,
+    "vd": -51458
+    },
+    "a": null,
+    "cd": "01",
+    "no": 1,
+    "rtUrl": null,
+    "ftype": 0,
+    "rtUrls": [],
+    "djId": 0,
+    "copyright": 0,
+    "s_id": 0,
+    "mark": 8192,
+    "originCoverType": 1,
+    "originSongSimpleData": null,
+    "tagPicList": null,
+    "resourceState": true,
+    "version": 7,
+    "songJumpInfo": null,
+    "single": 0,
+    "noCopyrightRcmd": null,
+    "rtype": 0,
+    "rurl": null,
+    "mst": 9,
+    "cp": 7001,
+    "mv": 0,
+    "publishTime": 0
+    },
+    {
+    "name": "Higher Power",
+    "id": 1842286694,
+    "pst": 0,
+    "t": 0,
+    "ar": [
+    {
+    "id": 89365,
+    "name": "Coldplay",
+    "tns": [],
+    "alias": []
+    }
+    ],
+    "alia": [],
+    "pop": 95,
+    "st": 0,
+    "rt": "",
+    "fee": 1,
+    "v": 10,
+    "crbt": null,
+    "cf": "",
+    "al": {
+    "id": 126887075,
+    "name": "Higher Power",
+    "picUrl": "https://p1.music.126.net/xQNQET43f-QYftJSJitsZQ==/109951165947989609.jpg",
+    "tns": [],
+    "pic_str": "109951165947989609",
+    "pic": 109951165947989620
+    },
+    "dt": 211330,
+    "h": {
+    "br": 320000,
+    "fid": 0,
+    "size": 8454313,
+    "vd": -61211
+    },
+    "m": {
+    "br": 192000,
+    "fid": 0,
+    "size": 5072605,
+    "vd": -58648
+    },
+    "l": {
+    "br": 128000,
+    "fid": 0,
+    "size": 3381751,
+    "vd": -57113
+    },
+    "a": null,
+    "cd": "01",
+    "no": 1,
+    "rtUrl": null,
+    "ftype": 0,
+    "rtUrls": [],
+    "djId": 0,
+    "copyright": 1,
+    "s_id": 0,
+    "mark": 270336,
+    "originCoverType": 0,
+    "originSongSimpleData": null,
+    "tagPicList": null,
+    "resourceState": true,
+    "version": 10,
+    "songJumpInfo": null,
+    "single": 0,
+    "noCopyrightRcmd": null,
+    "rtype": 0,
+    "rurl": null,
+    "mst": 9,
+    "cp": 7002,
+    "mv": 14292206,
+    "publishTime": 1620316800000
+    }
+    ],
+    "privileges": [
+    {
+    "id": 1811921555,
+    "fee": 0,
+    "payed": 0,
+    "st": -100,
+    "pl": 0,
+    "dl": 0,
+    "sp": 7,
+    "cp": 0,
+    "subp": 0,
+    "cs": false,
+    "maxbr": 999000,
+    "fl": 0,
+    "toast": false,
+    "flag": 4,
+    "preSell": false,
+    "playMaxbr": 999000,
+    "downloadMaxbr": 999000,
+    "rscl": 0,
+    "freeTrialPrivilege": {
+    "resConsumable": false,
+    "userConsumable": false
+    },
+    "chargeInfoList": [
+    {
+    "rate": 128000,
+    "chargeUrl": null,
+    "chargeMessage": null,
+    "chargeType": 1
+    },
+    {
+    "rate": 192000,
+    "chargeUrl": null,
+    "chargeMessage": null,
+    "chargeType": 1
+    },
+    {
+    "rate": 320000,
+    "chargeUrl": null,
+    "chargeMessage": null,
+    "chargeType": 1
+    },
+    {
+    "rate": 999000,
+    "chargeUrl": null,
+    "chargeMessage": null,
+    "chargeType": 1
+    }
+    ]
+    },
+    {
+    "id": 1842286694,
+    "fee": 0,
+    "payed": 0,
+    "st": -100,
+    "pl": 0,
+    "dl": 0,
+    "sp": 7,
+    "cp": 0,
+    "subp": 0,
+    "cs": false,
+    "maxbr": 320000,
+    "fl": 0,
+    "toast": false,
+    "flag": 4,
+    "preSell": false,
+    "playMaxbr": 320000,
+    "downloadMaxbr": 320000,
+    "rscl": 0,
+    "freeTrialPrivilege": {
+    "resConsumable": false,
+    "userConsumable": false
+    },
+    "chargeInfoList": [
+    {
+    "rate": 128000,
+    "chargeUrl": null,
+    "chargeMessage": null,
+    "chargeType": 1
+    },
+    {
+    "rate": 192000,
+    "chargeUrl": null,
+    "chargeMessage": null,
+    "chargeType": 1
+    },
+    {
+    "rate": 320000,
+    "chargeUrl": null,
+    "chargeMessage": null,
+    "chargeType": 1
+    },
+    {
+    "rate": 999000,
+    "chargeUrl": null,
+    "chargeMessage": null,
+    "chargeType": 1
+    }
+    ]
+    }
+    ],
+    "code": 200
+    }

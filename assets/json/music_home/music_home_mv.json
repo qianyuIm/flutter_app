@@ -1,0 +1,90 @@
+{
+    "code": 200,
+    "category": 3,
+    "result": [
+    {
+    "id": 14311202,
+    "type": 5,
+    "name": "Trip",
+    "copywriter": "最新热门MV推荐",
+    "picUrl": "https://p2.music.126.net/b0QKyZrMiqkT-PVba939PA==/109951166324236360.jpg",
+    "canDislike": true,
+    "trackNumberUpdateTime": null,
+    "duration": 214000,
+    "playCount": 1651,
+    "subed": false,
+    "artists": [
+    {
+    "id": 48419948,
+    "name": "Yigit Kaya"
+    }
+    ],
+    "artistName": "Yigit Kaya",
+    "artistId": 48419948,
+    "alg": "hot_server"
+    },
+    {
+    "id": 14311786,
+    "type": 5,
+    "name": "那段往事 Ashu Chaghlar",
+    "copywriter": "最新热门MV推荐",
+    "picUrl": "https://p2.music.126.net/SCZV60pQjGQqGbCFJBveEQ==/109951166327313736.jpg",
+    "canDislike": true,
+    "trackNumberUpdateTime": null,
+    "duration": 267000,
+    "playCount": 823,
+    "subed": false,
+    "artists": [
+    {
+    "id": 33574151,
+    "name": "Mirsali·Xavkat"
+    }
+    ],
+    "artistName": "Mirsali·Xavkat",
+    "artistId": 33574151,
+    "alg": "hot_server"
+    },
+    {
+    "id": 14310140,
+    "type": 5,
+    "name": "Still Is Still Moving To Me (Live From Austin City Limits, 2018)",
+    "copywriter": "最新热门MV推荐",
+    "picUrl": "https://p2.music.126.net/CyMBxd7_8U9gHFwnbWXzQg==/109951166324190938.jpg",
+    "canDislike": true,
+    "trackNumberUpdateTime": null,
+    "duration": 193000,
+    "playCount": 724,
+    "subed": false,
+    "artists": [
+    {
+    "id": 45846,
+    "name": "Willie Nelson"
+    }
+    ],
+    "artistName": "Willie Nelson",
+    "artistId": 45846,
+    "alg": "hot_server"
+    },
+    {
+    "id": 14312845,
+    "type": 5,
+    "name": "Can't Take My Eyes Off You (Lyric Video)",
+    "copywriter": "最新热门MV推荐",
+    "picUrl": "https://p2.music.126.net/KfLjqe40-VvplFcrph3b9Q==/109951166329316586.jpg",
+    "canDislike": true,
+    "trackNumberUpdateTime": null,
+    "duration": 251000,
+    "playCount": 198,
+    "subed": false,
+    "artists": [
+    {
+    "id": 185553,
+    "name": "DJ Ötzi"
+    }
+    ],
+    "artistName": "DJ Ötzi",
+    "artistId": 185553,
+    "alg": "hot_server"
+    }
+    ]
+    }

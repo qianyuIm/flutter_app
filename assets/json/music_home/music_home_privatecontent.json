@@ -1,0 +1,36 @@
+{
+    "code": 200,
+    "name": "独家放送",
+    "result": [
+        {
+            "id": 14301129,
+            "url": "",
+            "picUrl": "https://p2.music.126.net/GY1InPKv_gjrJAnkxAvVww==/109951166220847514.jpg",
+            "sPicUrl": "https://p2.music.126.net/LdtcyXiG8KqWZes5_s8yqg==/109951166220830820.jpg",
+            "type": 5,
+            "copywriter": "《超级面对面》第240期 毛不易：成长是一趟注定孤独的旅程",
+            "name": "《超级面对面》第240期 毛不易：成长是一趟注定孤独的旅程",
+            "alg": "featured"
+        },
+        {
+            "id": 14298344,
+            "url": "",
+            "picUrl": "https://p2.music.126.net/tLwvhOiMIhT2engkq7WqNQ==/109951166141751993.jpg",
+            "sPicUrl": "https://p2.music.126.net/ys3ndAbhjAinZLnTuuy6Qw==/109951166141742955.jpg",
+            "type": 5,
+            "copywriter": "《超级面对面》第238期  Ed Sheeran：黄老板——奶爸新声",
+            "name": "《超级面对面》第238期  Ed Sheeran：黄老板——奶爸新声",
+            "alg": "featured"
+        },
+        {
+            "id": 14305909,
+            "url": "",
+            "picUrl": "https://p1.music.126.net/6bnlGmW9G6QuGEKnIwS40g==/109951166288700672.jpg",
+            "sPicUrl": "https://p1.music.126.net/fAr8x5cJR3pShbDx2IibFQ==/109951166289569155.jpg",
+            "type": 5,
+            "copywriter": " 《超级面对面》第241期 不再怪奇：遇见更成熟的Billie",
+            "name": " 《超级面对面》第241期 不再怪奇：遇见更成熟的Billie",
+            "alg": "featured"
+        }
+    ]
+}
